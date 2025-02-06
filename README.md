@@ -8,11 +8,11 @@ The goal of this project is to detect anomalies in time-series data using an LST
 
 ## Key Features:
 
-Detect anomalies in time series data.
-Use LSTM Autoencoders for anomaly detection.
-Implement data preprocessing and normalization.
-Calculate loss for anomaly detection.
-Visualize results and anomalies.
+  Detect anomalies in time series data.
+  Use LSTM Autoencoders for anomaly detection.
+  Implement data preprocessing and normalization.
+  Calculate loss for anomaly detection.
+  Visualize results and anomalies.
 
 ## Dataset
 
